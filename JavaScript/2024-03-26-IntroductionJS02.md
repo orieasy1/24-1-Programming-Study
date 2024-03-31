@@ -193,6 +193,8 @@ function sayHello(nameOfPerson, age) {
     console.log("Hello! My name is " + nameOfPerson + "and I'm " + age);
 }
 
-sayHello("Jiwon", 22);
-sayHello("Leezie", 20)
+player.sayHello("Jiwon", 22);
+player.sayHello("Leezie", 20)
 ```
+
+인수를 이용해 정보를 외부에서 함수안으로 받아올 수 있다는 것을 기억해야한다.
