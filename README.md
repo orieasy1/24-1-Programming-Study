@@ -21,10 +21,11 @@
 
 **수강하는 전공과목**
 
+공부자료 from 사랑하는 <a href="https://github.com/OhHuijin">희진
+
 * Computer Language(Java)
 * Database Management
 * Accounting Principles
 * Engineering Economy
 * Applied Statistics(R)
 * Communication (English Presentation, Writing etc..)
-* 현대문화론
