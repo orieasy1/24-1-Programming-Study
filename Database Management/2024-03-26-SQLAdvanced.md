@@ -163,7 +163,7 @@ WHERE p.SPEED = '5Mbps';
 SELECT c.FIRST_NAME, c.MONTHLY_DISCOUNT, c.PACK_ID, c.MAIN_PHONE_NUM, c.SECONDARY_PHONE_NUM
 FROM ACDB_CUSTOMERS c
 JOIN ACDB_PACKAGES p ON c.PACK_ID = p.PACK_ID
-JOIN Sectors s ON c.SECTOR_ID = s.SECTOR_ID
+JOIN ACDB_SECTORS s ON p.SECTOR_ID = s.SECTOR_ID
 WHERE s.SECTOR_NAME = 'Business';
 ```
 3. Display the PACK_ID, internet SPEED, and MONTHLY_PAYMENT for all packages whose MONTHLY_PAYMENT is greater than the maximum MONTHLY_PAYMENT of packages with internet speed equals to “5Mbps”
