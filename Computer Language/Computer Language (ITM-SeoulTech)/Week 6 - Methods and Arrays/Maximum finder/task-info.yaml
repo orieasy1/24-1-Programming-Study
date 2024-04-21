@@ -1,0 +1,86 @@
+type: edu
+files:
+  - name: src/MaximumFinder.java
+    visible: true
+    placeholders:
+      - offset: 260
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 260
+        initialized_from_dependency: false
+        encrypted_possible_answer: SkzoGTPUe4ejEqv8ZwRKD/scg01k4Q+Ah2TXdHa6dBl/BG6MGoRPTQ/j69zjsc8Y
+        selected: false
+        status: Unchecked
+      - offset: 649
+        length: 88
+        placeholder_text: Declare a result variable of the correct type. Then call the
+          method maximum as required.
+        initial_state:
+          length: 88
+          offset: 649
+        initialized_from_dependency: false
+        encrypted_possible_answer: f/15pq15Nv1sZeLbqKiYgUOHSH//5zswm35m5HEWOU/P1jtddhQzfypj3FZbRBfSsirzBsjWr1xXNGrPrZWy0w==
+        selected: false
+        status: Unchecked
+      - offset: 814
+        length: 26
+        placeholder_text: print your result variable
+        initial_state:
+          length: 26
+          offset: 814
+        initialized_from_dependency: false
+        encrypted_possible_answer: VnmpXOitpbtJURXUQPMW4w==
+        selected: false
+        status: Unchecked
+      - offset: 990
+        length: 71
+        placeholder_text: Declare a maximumValue variable of type double and initialize
+          it with x
+        initial_state:
+          length: 71
+          offset: 990
+        initialized_from_dependency: false
+        encrypted_possible_answer: yYLvdFrGrwiW0zTfb/GgC9thVKW4r6lFxYVD21DD4SY=
+        selected: false
+        status: Unchecked
+      - offset: 1238
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 1238
+        initialized_from_dependency: false
+        encrypted_possible_answer: Hip42VzUlzqJXfLSoNk7HnH5o+1CISoqPRnH4ZAVeyIuobFLNXOfbS0itl+xNrSx/uXSxvaCcOew3fAwWkCmHqTD+OlDlx2xasS/S+GFA+ga0G4XEptKn7Edp1BVTxu1DdKjlnwsbJyq5a6sxcvDGU0w7dBAApqiX1SfCZDtFF6Lt9xrjAt2kg15OQidZe79
+        selected: false
+        status: Unchecked
+      - offset: 1438
+        length: 0
+        placeholder_text: ""
+        initial_state:
+          length: 0
+          offset: 1438
+        initialized_from_dependency: false
+        encrypted_possible_answer: +JA3s+bif87hZ4QWdc9QvB17n4emj2Jh8WeffluNv+UEAjlVQTxPl+88h8qmuI5kCfDFrUHmXqxe6fUaPe/8/d7EBJyLfypw8JHa/oW/QNRp599zTa7/kS+zcpo0VWEnTwUqhgcq8H1e7HX4eaoVC7JkKE3UBQoqjmEKpbn/cVhdbTYAlqjb+WvSVhzh22Ci
+        selected: false
+        status: Unchecked
+      - offset: 1571
+        length: 32
+        placeholder_text: Return the maximumValue variable
+        initial_state:
+          length: 32
+          offset: 1571
+        initialized_from_dependency: false
+        encrypted_possible_answer: kFAy1zki9sjRRyzF5c+P1+Mi+6cmTUDs1tuWwHUaDF8=
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+  - name: test/MaximumFinderTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nELYfladGZWDUrKFjXZLNPDpD+ixobhbrJ/2kid8rWwatNxBnJ4mSBMZP7WxwYcgy4rqeHN2ToQ/2rHJ4eI8wGB/RrQd6A81p4D5K6UiOen3ijfjzN0KLYJZmi4zXbSbxhgl20U1Wtj2Bc9dxahdecfHD+mCEj/8BLs+mtHhnBkbFNkuI27KWAAX7fDGP1MrzJVviNB9ANrHm6SDSoxysypQez5B4bwHo95X03wA4BHBifEvaP40o1lrruIxisayiGu2IMuHz5nG/pSEt3d38B6C12tUoE9PU29knQg2xBKtJ1xW4EiG4zIic4oXx/cqzyy6mInQb0mT65/h5zI0hvCbKoFkrr9XxnE89pv5MNYJUgun6+yf45/CzCF32NZhG4nsapv5ZQ/D7X8c+0hsAEIFi3Hd5o9fMfMwTOOKYIvUMxA1zyGFGoTSpxakjN0Gqw==
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true

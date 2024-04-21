@@ -361,9 +361,17 @@ public calss ConstructorExam {
 
 ```java
 public class Car{
+    String company = "Hyundai";
+    String model;
+    String color;
+    int maxSpeed;
+    int speed;
+
     //생성자 선언
     Car(String model, String color, int maxSpeed) {
-
+        this.model = model;
+        this.color = color;
+        this.maxSpeed = maxSpeed;
     }
 }
 ```
@@ -373,9 +381,20 @@ public class Car{
 ```java
 public class CarExample {
     public static void main(String[] args) {
-        //클래스에 갭라자가 선언한 생성자가 있다면 컴파일러는 기본 생성자
+        // Car 객체 생성
+        Car myCar = new Car("Grandeur", "black", 250, 60);
         //Car myCAr = new Car();    기본 생성자는 호출할 수 없다.
-        Car myCar = new Car("Grandeur", "black", 250);
+
+        // Car 객체 필드값 출력
+        System.out.println("제작회사: " + myCar.company);
+        System.out.println("모델명: " + myCar.model);
+        System.out.println("색깔: " + myCar.color);
+        System.out.println("최고속도: " + myCar.maxSpeed);
+        System.out.println("현재속도: " + myCar.speed);
+
+        // Car 객체의 필드값 변경
+        myCar.speed = 80;
+        System.out.println("수정된 속도: " + myCar.speed);
     }
 }
 ```
@@ -386,49 +405,7 @@ public class CarExample {
 ### 필드 초기화
 
 생성자의 핵심 기능은 필드 초기화이다.
-즉 생성자를 사용하여 객체가 생성될 때 필드를 초기활 할 수 있따.
-필드 초기화는 객체의 상태를 설정하는데 중요한 역할을 하며 
-위의 예시처럼 매개변수를 통해 필드를 초기화 해줄 수 도 있고 클래스의 생성자 내에서도 필드 최기화를 할 수 있다.
-<br>
+즉 생성자를 사용하여 객체가 생성될 때 필드를 초기화를 할 수 있다.
+필드 초기화는 객체의 상태를 설정하는데 중요한 역할을 한다.
 
-Car.java
-
-```java
-class Car {
-    String company;
-    String model;
-    String color;
-    int maxSpeed;
-    int speed;
-    
-    Car() {
-        this.company = "Hyundai";
-        this.model = "Grandeur";
-        this.color = "black";
-        this.maxSpeed = 350;
-        this.speed = 0; // 초기 속도는 0으로 설정
-    }
-}
-```
-
-CarExample.class
-
-```java
-public class CarExample {
-    public static void main(String[] args) {
-        // Car 객체 생성
-        Car myCar = new Car();
-
-        // Car 객체 필드값 출력
-        System.out.println("제작회사 " + myCar.company);
-        System.out.println("모델명 " + myCar.model);
-        System.out.println("색깔" + myCar.color);
-        System.out.println("최고속도" + myCar.maxSpeed);
-        System.out.println("현재속도" + myCar.speed);
-        
-        myCar.speed = 80;
-        System.out.println("수정된 속도: " + myCar.speed);
-    }
-}
-
-
+객체마다 동일한 값을 갖고 있다면 필드 선언시 초기값을 대입하는 것이 좋고, 객체마다 다른 값을 가져야 한다면 생성자에서 

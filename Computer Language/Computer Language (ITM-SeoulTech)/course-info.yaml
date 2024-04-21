@@ -1,0 +1,21 @@
+type: marketplace
+title: Computer Language (ITM-SeoulTech)
+language: English
+summary: |-
+  This IntelliJ course accompanies the Computer Language module for ITM at SeoulTech
+  - The course will be most beneficial for beginner-level Java learners.
+  - The course covers core Java features.
+  - It contains hands-on examples of Java code implementation and exercises to practice new skills.
+  - The course is based on the book: Java: How to Program, Late Objects from Deitel and Deitel
+programming_language: Java
+content:
+  - Week 1 - Computer Programming
+  - Week 2   3 - Data Types and Operators
+  - Week 6 - Methods and Arrays
+  - Week 7 - Intro to Classes and Objects
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_1_8
+solutions_hidden: true
+vendor:
+  name: Josue Obregon

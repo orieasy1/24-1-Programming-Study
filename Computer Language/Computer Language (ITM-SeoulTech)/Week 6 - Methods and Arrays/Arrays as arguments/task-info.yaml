@@ -1,0 +1,86 @@
+type: theory
+files:
+  - name: src/PassArray.java
+    visible: true
+    placeholders:
+      - offset: 230
+        length: 77
+        placeholder_text: /* Declare an array and use an array initializer with numbers
+          from */ 1 to 5.
+        initial_state:
+          length: 77
+          offset: 230
+        initialized_from_dependency: false
+        encrypted_possible_answer: 8EYngXcdh7CokL7FqeS0nmmm4roxW3+tUjpqGJIQrUg=
+        selected: false
+        status: Unchecked
+      - offset: 502
+        length: 83
+        placeholder_text: /* Using an enhanced for statement for printing the original
+          values of the array */
+        initial_state:
+          length: 83
+          offset: 502
+        initialized_from_dependency: false
+        encrypted_possible_answer: J6656S6VuQB+hAg3oN4TEmCDZmdE36E2YdUR251p0c2aonW0sTwta1mjXu+gqWCy8BIbq97AOPNpYHQeAxMtgas7C48srNry5rusRsu5xxI=
+        selected: false
+        status: Unchecked
+      - offset: 595
+        length: 35
+        placeholder_text: /* Invoke the method modifyArray */
+        initial_state:
+          length: 35
+          offset: 595
+        initialized_from_dependency: false
+        encrypted_possible_answer: xM9ZYV/txRx4S38TZHlsnu67YdPaxqQVEsmrrlwjNiA=
+        selected: false
+        status: Unchecked
+      - offset: 775
+        length: 76
+        placeholder_text: /* Print the values of the modified array using an enhanced
+          for statement */
+        initial_state:
+          length: 76
+          offset: 775
+        initialized_from_dependency: false
+        encrypted_possible_answer: J6656S6VuQB+hAg3oN4TEmCDZmdE36E2YdUR251p0c2aonW0sTwta1mjXu+gqWCy8BIbq97AOPNpYHQeAxMtgas7C48srNry5rusRsu5xxI=
+        selected: false
+        status: Unchecked
+      - offset: 1009
+        length: 37
+        placeholder_text: /* Invoke the method modifyElement */
+        initial_state:
+          length: 37
+          offset: 1009
+        initialized_from_dependency: false
+        encrypted_possible_answer: zP9bPSJguiSPfXEOTe45jXyn3Xv+sxhC0s7lM9Q0Cfs=
+        selected: false
+        status: Unchecked
+      - offset: 1308
+        length: 120
+        placeholder_text: "/* \"Use a for statement (not enhanced) to modify the elements\
+      \ of \\n array 2. For example, multiply each element by 2\" */"
+        initial_state:
+          length: 120
+          offset: 1308
+        initialized_from_dependency: false
+        encrypted_possible_answer: cSU/sb1jgSe+oHzu5XQbcxr1vl1Ms5hE500XrBrVW3fsY+O63i3DJeOp+zRvk/PUXqggVC1Z0mNtY1xtrL7gJnab+xQBLNrZEN6GWRI+AYbUA3cSHgtivL1dUaVCGE7/4qjYC5jDJLpznTY2kFEInA/Czeoc02mywK/LN7RKyfXKRzZlFZsjpRi1C2gUzPty
+        selected: false
+        status: Unchecked
+      - offset: 1688
+        length: 67
+        placeholder_text: /* Modify the value of element by duplicating the original value
+          */
+        initial_state:
+          length: 67
+          offset: 1688
+        initialized_from_dependency: false
+        encrypted_possible_answer: YuzfaBvZik3vsDl6aV9Lgg==
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true

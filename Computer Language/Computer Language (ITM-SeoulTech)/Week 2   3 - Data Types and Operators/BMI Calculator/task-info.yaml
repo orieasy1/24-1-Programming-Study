@@ -1,0 +1,33 @@
+type: edu
+files:
+  - name: src/BMICalculator.java
+    visible: true
+    placeholders:
+      - offset: 108
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 108
+        initialized_from_dependency: false
+        encrypted_possible_answer: aSM/0zQWMhqtm3l2dE5RSWjUlpGt6qEiPaRlcmPhmBnPgMddTjuVte5b7zosfpmR0YTtaV7JwpegOzRu88pFJ+TD8snM/EgnGcxfXSwMzj5fXrZ2ZaUyt19Q/nnIOGvwmse+qyxs1md9coWBgRzAFta3+qncTNIffdNo64m19pp3r7FPA+ojUIHaWw3FW/ExBzrN5s2ZfIQCBE6EPynzmxqLRDIO3jc0zK+Er8YExgdnWIDkdsxWy5eNshLYvUi073qF7w8jpx1Am+6b4gP3PKP618DLGcIDDEgMZK1mzdPL1Xt2Ida0ATh6BGemvPURjWXcUXYYe53cleJTIH/ONmF+92ZGCkyABFfBiDKHE2Yt6vonoma0z+TzjmugTWSokU/soeE0WLXRYkfPtO8BCUJwEPW4t/mYuX/1ROEJakJqiI1Dua6/aFiwfAdXVNDlm1RO1OG4IM0XPk/jO0wAcNsk3IJpBI3CqlJ9sGTNz04adobotyw2SHjMCebYg5I5Y1hxgJudw4lLtcB3X4oJfcI2ueLLloGOsqUoHrZBnHFe+PdYS38POLZcMVYe0LxZDPM4/48R7mvA1AS0uyuhwzINO9XA4wEPDnCOD4YXM6Ll6nTrB4WQP5cFmaDK7e6yU6zQGz9QSCfaJpAH4vVmZfyHknk1i2sx1RsOffQLF8+X2k1iKSF/zpFwwkZSEZrI84evgOHezoEk7PaHEhtmVumqyoXA+YmuEJReyMGX/GpZ7ZU7QIkWxgUNG7q/epB6JaFtBojn9JvQLPUAybsJzk7ihAazKJGIEMTUij983ze5rq3gTnDjvsCmdVM98KnoQ2foluLTcYObew0RUi2uQaG5TeD0EK8mN9zNASCB1iISSEYhkys98L/9hZjdJOubbK/IWHbEkp0LL+HkH7S3K2eGhdG6KhgnkIIQxv685hnzLH9CoBc9bM9cis1+zo2Kfl/jB5fEYzf6MuwU2U8iu4QLGaeXMJFE0AZLrZJfnl20MolPw5vp91ADXSyetJEiEkEQzMLKyTMdaQSPvBH85jkt2S51zUDo++ecUnH9K7fv8Ty3s0+LXwsFOGD6EwwEUDFmDzWhsJDrHWEj8xr/wl2bcB6O6Ss83nLYqhm/JfxZS5DhAym0xnFwMRhEIrjO+Hh3+lP8scCi+/apm0HZ2tEJpyW1VXtaUra9yd/Dw+Y=
+        selected: false
+        status: Unchecked
+      - offset: 564
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 564
+        initialized_from_dependency: false
+        encrypted_possible_answer: tMuEIyFv5T/Ybj+SRy+PBM4c9lBg8thD4CQgHkheGW8eS71bAXx1hzy9aYSI6iSg+W0wJxDqLBhx8KkhaWNrfl4cts5XJr4JlM/snxolIWvC0ibIb6jWidHXw29Bq+WU7PzssAj5fkVjzRUgJlGl7k/z/SNPlaZxdAlnoAYwV8Lx21hBvePTmYOd6nztucDrRYBd/VZiQ/+YUKKK9lN+pjEdctJTYaRIP9dCVnmAqiD1/uaaXKXBQ00/gSY0FsX1Dq0S3pZLNFnYGxCwwz4ytrJSyc5KZwoj8pboyu0D7MxjqxFzp4H2tD66NG/1QfWwXqo4sE0pAeGixSTiWmeYoqAY/tWWL+x7URe1K660SpcGLX7JlugoPKTDeTPMLWhadcX2X3wzS4WQ75742UVcrk/Cmdo9yf9JQpKFOI5iwGifAajXZ8T7GRfHryG/VTlRvp9rqsRZ35Nc1Hh0JB1s9AMafraZ+GzEF6N/Wh9JQds=
+        selected: false
+        status: Unchecked
+    encrypted_text: NYgHoNruO3t7vIi6YFhoHy7/H3N0tonWil/L9SlJDt2PWhdQfhccEmUYQdITIkqbTsc0kVcE3/Q7cxd9W3tZNFCAKv0/5flC0CpZ4cvce7y365jmXuQNjTolGC9VHALWn/kq+2yWOdMYfrzI6nQqWmzxk8/wOHWXZ8+y9ZIJyS7CazPueBZqmRQOfa/v4vuB0YqXj5+sFMb3MOBwEH7PANXGYF+TwizocJOfv8FtH7ZnVvLYDdkidEY5t3RsntaVlp3PHJ3vglxna78DfPtiQi10dTIioN4WqH7EXw8c24w6EdWMIqSTXfAxNcGTqYODl+3MiuibZJmOVES31yllVRBpssOX1bdpJJioJrU0q4hak4jy55qmlnJPZCbQ8KU9hnbUPZjIssmb9akVg4PvKNA9OGKOGV/hGHBsOarsXvbAxoOyGHb66Kb4mIS7Ne+8xQamYoIemA1vhYWg6B3/IkxWC2/tHRF8v69yGBiEk33XVOzB0qrxQzAkKCBQosaILUCISsAXDnApObKlcsRnVWm4JoqbEh20XBJlFMHmMRLzT4IHrLjW14o4Q2YqnQ3gnKQkHyVI6PSxtoQNlQmognT21Fy+srFfdWRRWgiSRLb6gSs6JW/Br7QFZj6ih+pxI2Zs+xrG3TkSGDX7kAQaimgJ+drEf/1gbKAevcHQ3RnyzA/x7w6yBqut+O+azb9R1pLUb9KJWaA07nN+S0nsJClo+7yU1K/dXVNPwilhL5DcjKhMUspcbXChnMnxXo4p9R1rFuEvsD6gEm5Qiaj8bTUkCTslqDlZrYuOfFAt1o7EQJm3z1P+Tre45H59aExd
+    learner_created: false
+  - name: test/BMICalculatorTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOcKrpZlKNuxce3L8vYjg8Lso1urIhBQDtc5I9CAcN7zhmtgbYsMbJneT/od7b4KuEyr3wZABo4GAe86e9LHpmJvSvYcjumma5+H//MTI777ol/T2ezwl6HKpaTZUFFusEWxWVxcC+gx0L9C1SQYweqd04Bv36dK1uV27dtrh1ZULNwQ0tz/9OTBu5mwLw+kHrGU6YXNGePatmfapTKj5TUj4sjE3lyqq2Ug8lGmXYvqB/G82zz3TlSlkG6+O1fIKCLNU8x3MwFEJTN1SQWwQSxuTQH775DrY5bzpzQMajdlEZFfxtA+8Nxhz8PYqMhWh8i2HVZMgIHz625RqN3q1rODKmZ/NO8IidnikFeZ19HK8ITHEytRfs+nxauFZin+xwZn1ZF6ATURsF2U6c/srSDUzWZ82ofkcpMfRb2vzETjV63mXUPynFXchD3703/Kfpv63yUKUO9tviTlCUiHjMm1Xl7oQIOTjcyaVoUtQklFfCEEYHWwkSDF53mBp/0+ghEES2V1TvBBHTj1yC3EsTQCkUyk8RcNqHGIc2+NCMbzocx9mr0ZD0zlvLzbFZIcOPyJP9A9Ir0L3yZgmHmeCYcoXbRIDFP5aAtPz9Um1TxRYFUiz9v7bzHVTPqoxViWx9j+N58dS0YvJaGtiAEBjtrQ==
+    learner_created: false
+status: Unchecked
+record: -1
