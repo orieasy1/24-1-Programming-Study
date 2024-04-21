@@ -1,4 +1,4 @@
-package controlStatements.iteration;
+package controlStatements.iteration.whileStatement;
 
 import java.util.Scanner;
 

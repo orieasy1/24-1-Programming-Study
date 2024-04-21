@@ -1,4 +1,4 @@
-package classnInstance.carConstructor;
+package classnInstance.selfStudyCode.car.carConstructor;
 
 public class Car {
     //생성자 선언

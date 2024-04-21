@@ -5,26 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d35031c3-38ae-4ea8-998a-7d658ccc4c0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classnInstance/StudentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classnInstance/car/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classnInstance/car/CarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classnInstance/carConstructor/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/classnInstance/carConstructor/CarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/WhileEx01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/WhileEx02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/selection/DoubleSelection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/selection/SingleSelection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2023-02-26-ComLang01.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Java Review/2023-11-30-ch5ReferenceType.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/BreakStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/doWhileStatement/doWhileStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/forStatement/ForEx01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/forStatement/ForEx02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/forStatement/ForEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/forStatement/ForStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/whileStatement/WhileEx03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/whileStatement/WhileEx04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/whileStatement/WhileEx04_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/selection/MultipleSelection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controlStatements/selection/MultipleSelection_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/StudentExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/car/StudentExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/car/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/car/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/carConstructor/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/car/carConstructor/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/carConstructor/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/car/carConstructor/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/WhileEx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/whileStatement/WhileEx01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/WhileEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controlStatements/iteration/whileStatement/WhileEx02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +45,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/controlStatements/selection/MultipleSelection.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
@@ -57,6 +59,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.JavaCode [:ForEx01.main()].executor": "Run",
+    "Gradle.JavaCode [:MultipleSelection.main()].executor": "Run",
+    "Gradle.JavaCode [:MultipleSelection_1.main()].executor": "Run",
+    "Gradle.JavaCode [:While04.main()].executor": "Run",
     "Gradle.JavaCode [:WhileEx02.main()].executor": "Run",
     "Gradle.JavaCode [:WhileStatement.main()].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -98,7 +104,7 @@
       <workItem from="1713629589933" duration="470000" />
       <workItem from="1713633317169" duration="4000" />
       <workItem from="1713656066937" duration="1383000" />
-      <workItem from="1713657462063" duration="864000" />
+      <workItem from="1713657462063" duration="9700000" />
     </task>
     <servers />
   </component>

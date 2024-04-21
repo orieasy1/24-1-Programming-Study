@@ -1,4 +1,4 @@
-package classnInstance.car;
+package classnInstance.selfStudyCode.car;
 
 class Car {
     String company;

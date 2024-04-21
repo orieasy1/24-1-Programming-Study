@@ -1,4 +1,4 @@
-package controlStatements.iteration;
+package controlStatements.iteration.whileStatement;
 
 public class WhileEx01 {
     public static void main(String[] args) {

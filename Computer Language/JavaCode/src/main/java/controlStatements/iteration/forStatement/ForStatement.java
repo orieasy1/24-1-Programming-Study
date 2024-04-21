@@ -1,4 +1,4 @@
-package controlStatements.iteration;
+package controlStatements.iteration.forStatement;
 
 public class ForStatement {
     public static void main(String[] args) {
