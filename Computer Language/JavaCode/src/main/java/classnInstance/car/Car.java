@@ -1,4 +1,4 @@
-package chap06Class.car;
+package classnInstance.car;
 
 class Car {
     String company;

@@ -1,8 +1,6 @@
 package controlStatements.iteration;
 
-import java.util.Scanner;
-
-public class WhileStatement {
+public class WhileEx01 {
     public static void main(String[] args) {
         int product = 3;
 

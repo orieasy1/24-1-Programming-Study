@@ -1,4 +1,4 @@
-package chap06Class.carConstructor;
+package classnInstance.carConstructor;
 
 public class Car {
     //생성자 선언

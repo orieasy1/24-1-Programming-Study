@@ -1,4 +1,4 @@
-package chap06Class.carConstructor;
+package classnInstance.carConstructor;
 
 public class CarExample {
     public static void main(String[] args) {

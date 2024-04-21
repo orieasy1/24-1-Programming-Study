@@ -1,6 +1,4 @@
-package chap06Class.car;
-
-import chap06Class.car.Car;
+package classnInstance.car;
 
 public class CarExample {
     public static void main(String[] args) {

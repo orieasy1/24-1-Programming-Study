@@ -1,4 +1,4 @@
-package chap06Class;
+package classnInstance;
 
 class Student {
 
