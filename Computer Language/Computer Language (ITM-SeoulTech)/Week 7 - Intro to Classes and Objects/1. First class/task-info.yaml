@@ -1,0 +1,102 @@
+type: edu
+files:
+  - name: src/Account.java
+    visible: true
+    placeholders:
+      - offset: 153
+        length: 51
+        placeholder_text: /* Add a private instance variable called "name" */
+        initial_state:
+          length: 51
+          offset: 153
+        initialized_from_dependency: false
+        encrypted_possible_answer: uDGnfE0FTH9Vunypx/ZkagnGBs1iyXHb3O3AUUEw+Yk=
+        selected: false
+        status: Unchecked
+      - offset: 275
+        length: 72
+        placeholder_text: /* Declare a public method setName with a String argument called
+          name */
+        initial_state:
+          length: 72
+          offset: 275
+        initialized_from_dependency: false
+        encrypted_possible_answer: UNPmEPsfOuObs/CSPy4QL4RReGV4JDoW+7PuXyzvErOgajRnenOWL8nZH2DUDEWb
+        selected: false
+        status: Unchecked
+      - offset: 358
+        length: 68
+        placeholder_text: /* set the instance variable "name" equal to the parameter "name"
+          */
+        initial_state:
+          length: 68
+          offset: 358
+        initialized_from_dependency: false
+        encrypted_possible_answer: yFwyx6KeIG1h66oZhng057NjCNewd65aS/Zk634bkgE=
+        selected: false
+        status: Unchecked
+      - offset: 541
+        length: 42
+        placeholder_text: /* Return the instance variable "name"  */
+        initial_state:
+          length: 42
+          offset: 541
+        initialized_from_dependency: false
+        encrypted_possible_answer: qEIsfOBZ00A3444f8Eh2bw==
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+  - name: src/AccountTest.java
+    visible: true
+    placeholders:
+      - offset: 363
+        length: 79
+        placeholder_text: /* Create a new instance of the class Account. Give it the name
+          of MyAccount */
+        initial_state:
+          length: 79
+          offset: 363
+        initialized_from_dependency: false
+        encrypted_possible_answer: xS4bbaY9mm97lY8a/fSLIv1ghcxiqsQIVesXNEtpEShAhi/M+S7Dpz0ZtixBrkb3
+        selected: false
+        status: Unchecked
+      - offset: 542
+        length: 61
+        placeholder_text: /* Call the "getName" class method of instance "myAccount" */
+        initial_state:
+          length: 61
+          offset: 542
+        initialized_from_dependency: false
+        encrypted_possible_answer: /15R441yX3NDoTYAOnxvDRF1ou5ElJOJmmbjjgmrV5w=
+        selected: false
+        status: Unchecked
+      - offset: 763
+        length: 81
+        placeholder_text: /* Call the "setName" class method and pass the variable "theName"
+          as argument */
+        initial_state:
+          length: 81
+          offset: 763
+        initialized_from_dependency: false
+        encrypted_possible_answer: nAq7z0+HD1DimsF4qCn7cPfHlZfK8lme3L6mCHd/vjk=
+        selected: false
+        status: Unchecked
+      - offset: 1049
+        length: 61
+        placeholder_text: /* Call the "getName" class method of instance "myAccount" */
+        initial_state:
+          length: 61
+          offset: 1049
+        initialized_from_dependency: false
+        encrypted_possible_answer: 27RREuMU5wgBejcHf6iO/GesVIXEDwnRTgj4/qAKK+U=
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+  - name: test/AccountTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nELYfladGZWDUrKFjXZLNPDpD+ixobhbrJ/2kid8rWwatNxBnJ4mSBMZP7WxwYcgy9kA/aCh/3h+zpXdrfchccKn+ggAeyXL/xc08hdDJBog6yxYsq5A91qPILqNfl9BeXRCrnuPaz5yYFRyvkxH5dVFjLOR/yYyuOfHhr2fsaeyC17qAD5SUQJ1wvQT2+NmPcPHG9Hg4Wnm9MJZIkVepVQSrqcM1T63Hvl53vUUo2LTjeiqGoJ0eIeF9P3ULWX+x/aGtHheWogLy8hk1EppNhLAW0FcxT3fq/08zMmIIq2N4e4gmTmNtOOycBFApMM3ylUx6D1Cmj130ZayVVGWEUgW5nACW646tsGeO1Iy8KRAY+/0FmNbp200tFa4m8BWuGsmiN/lxjsmpGWFwPIrKCoM4AH9ZOHSmHIVtWRiUFz5EKD1iP+Hki2vUnDhZD2d6MAPudGr36SvmZhfeszXg1BFUg15kbb3AXpsES0YrrO/1kA9Q8L2J2q6fXjG5ApZsfBIxmWjHt+CkRb6Gzi+6kXxNTJNBXKTdQnJd2srCyEpNGZG7LqANgBmmqRPY5FNYDHsPyB36p6dxyC2k5qrCzKzdzaL2JQFxnPyAnvI5JkRIP2H3POjx12vFOBeWlMSStDZDtfUhy8wgeQh1CHx4X860VadI5TF0DyH6h86LI9jmY/EVy0+jzzksG6Vw3+W/jPFivxE3hzfbMgJ40I3OQ5hvo8p0wnAmkcIFR4cKV6uYEymaLAaZSJWeMohUUsPCNtCYM2KSVGTH1ySSulwO9HJIKTIReGGu7ibNkpZfSeBnUmSDt4TemB8MzVrlUg7FEEyUxV2TIBSIZ9OW3FXT22It/+8X9jxdFwhkYtWtI3+pM1IBLJXYUewD+pnRdRIPQjpGKDpqvbvl4aMGxLhxQvtDHAcnMMXT0wakirHSK2PFcWu7N1tftI+W9IQDv3xm97VEE7ThhE6zLX2WShBlhB2jQwWz4VdndxfCpcx787l
+    learner_created: false
+status: Unchecked
+record: -1

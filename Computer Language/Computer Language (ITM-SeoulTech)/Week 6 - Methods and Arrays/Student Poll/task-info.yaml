@@ -1,0 +1,32 @@
+type: theory
+files:
+  - name: src/StudentPoll.java
+    visible: true
+    placeholders:
+      - offset: 299
+        length: 92
+        placeholder_text: /* Create a new integer array to store the frequency counters
+          for */ the food rates (1 to 5)
+        initial_state:
+          length: 92
+          offset: 299
+        initialized_from_dependency: false
+        encrypted_possible_answer: zHgD2G13L27sKgL0vae7n3fQ0baTVNJTQgb3gzmQo5Y=
+        selected: false
+        status: Unchecked
+      - offset: 634
+        length: 73
+        placeholder_text: /* Increase the frequency counter according to the students'
+          responses */
+        initial_state:
+          length: 73
+          offset: 634
+        initialized_from_dependency: false
+        encrypted_possible_answer: RikkGPCxUvzgCC7QoQSEa7BV3Qa9XHMT/8YlZibiYckMsvNoKJayCngRdK3to2y3qGmVNlPzFK6U4xye3RkgELWr53TJLw2n6/kFg+cBKHXIWt4QtN14CYjkBrvVQcrpwjh3//NglNDhWAz0dRsegwvQXqWM9DDFVM+jKOpJTU6/EoUM8EeWQ5UlHJSpsEToSaxUv1mz5pNcGfPZMfYKikHHwPzSIwT+NcNhuHhqbuPc60XjJyDNIJMa12bTmPX6zimi0GClBG581Oq+eEbWcRan1+E38/kmKWVyU1PqhfpQXq/pBp3A1FRb8yySJrsuVupjSGBInOL+1+/t5WJAdSUo841LmHkufsI2kPiv4FQaqPwTEo1QzV3rW8K0Ni4z5Z3QNnYUFiKWKiHZR9W4RfI55blTqpQtggt42D1fujsCYvjrc8MioB8h6VuJ4A+uHUhO2ow8RjLw37MQJjtMggP4TKPdxYjvAhb/GCv+Ahl9CasBm0Pw/KyhOVbJwx+OnFX1SJgZJTKzmgbBREntkcXTBWZbFJB48Jb6ZITjXDgwPI2zGXtuYJHydVVWrGWIkClzVK1/0ynxSodld9E0k4n0sfslgAXRb7xHusD2b29DcrSynLEe0TpsRwx2xQ4qYEi6wXZSqm5rvCQ/gtAwAA==
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

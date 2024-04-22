@@ -1,4 +1,4 @@
-package classnInstance.comLangCode.account;
+package classnInstance.comLangCode.account1;
 
 import java.util.Scanner;
 

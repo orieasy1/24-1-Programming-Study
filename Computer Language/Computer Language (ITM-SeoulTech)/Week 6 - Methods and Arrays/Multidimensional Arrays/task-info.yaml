@@ -1,0 +1,89 @@
+type: theory
+files:
+  - name: src/InitArray.java
+    visible: true
+    placeholders:
+      - offset: 192
+        length: 184
+        placeholder_text: "/* Declare a two-dimensional array with an array initializer.\\\
+      n The first element should be an array with values [1,2,3]. The second element\\\
+      n should be an array with values [4,5,6] */"
+        initial_state:
+          length: 184
+          offset: 192
+        initialized_from_dependency: false
+        encrypted_possible_answer: tqzU7OhCnrRP0zeXVlHzHJ8xiJkwAL4HWEgCsc6l8e2q4D/2OpOpeDIAvySvoiwg
+        selected: false
+        status: Unchecked
+      - offset: 385
+        length: 248
+        placeholder_text: "/* Declare a second two-dimensional array with an array initializer.\\\
+      n The first element should be an array with values [1,2]. The second element\
+      \ \\n should be an array with values [3] and the third element should be an\
+      \ array\\n ith values [4,5,6] */"
+        initial_state:
+          length: 248
+          offset: 385
+        initialized_from_dependency: false
+        encrypted_possible_answer: RCK1PM7FfdjWt41p44SEMF+gVyHdi+f5tWv6p7UZ/eUSy1gxn/Wd5pe2qe7mC6GO
+        selected: false
+        status: Unchecked
+      - offset: 698
+        length: 88
+        placeholder_text: /* Invoke the method outputArray passing the first array that
+          you created as argument */
+        initial_state:
+          length: 88
+          offset: 698
+        initialized_from_dependency: false
+        encrypted_possible_answer: bnbtCILvc+hER6wED9dVHNoc2dokneKuRuW9dQGcjgU=
+        selected: false
+        status: Unchecked
+      - offset: 883
+        length: 89
+        placeholder_text: /* Invoke the method outputArray passing the second array that
+          you created as argument */
+        initial_state:
+          length: 89
+          offset: 883
+        initialized_from_dependency: false
+        encrypted_possible_answer: bnbtCILvc+hER6wED9dVHBBMHgUrpq5ihhZ4/MjoeAQ=
+        selected: false
+        status: Unchecked
+      - offset: 1195
+        length: 55
+        placeholder_text: /* Complete the header of the required for statement */
+        initial_state:
+          length: 55
+          offset: 1195
+        initialized_from_dependency: false
+        encrypted_possible_answer: PgQEMYerU2GmvHMmYQF/aW7advgcwcSAzg+2AceShNAOoWFmpH/dZWIX+6eoLmWJ
+        selected: false
+        status: Unchecked
+      - offset: 1355
+        length: 52
+        placeholder_text: /* Complete the header of the nested for statement*/
+        initial_state:
+          length: 52
+          offset: 1355
+        initialized_from_dependency: false
+        encrypted_possible_answer: wdf1xFuSmSjxuqZmIejIbM3wq5CKE94OhqNSTJm9Iv44GHY8zN+zR2pdTEQMS+VXkXSj6UL7qhmmT/yUH3FesQ==
+        selected: false
+        status: Unchecked
+      - offset: 1449
+        length: 127
+        placeholder_text: /* Write the statement that access an element for a two-dimensional
+          array. Use the right order for rows and columns counters */
+        initial_state:
+          length: 127
+          offset: 1449
+        initialized_from_dependency: false
+        encrypted_possible_answer: iPEvalda0mm5rFoYo1XGE+0b5sRSmdxrPwFxJebB9FQ=
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true

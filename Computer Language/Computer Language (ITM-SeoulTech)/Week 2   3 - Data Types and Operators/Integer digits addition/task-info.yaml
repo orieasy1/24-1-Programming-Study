@@ -1,0 +1,33 @@
+type: edu
+files:
+  - name: src/IntegerDigitsAddition.java
+    visible: true
+    placeholders:
+      - offset: 112
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 112
+        initialized_from_dependency: false
+        encrypted_possible_answer: aSM/0zQWMhqtm3l2dE5RSWjUlpGt6qEiPaRlcmPhmBnPgMddTjuVte5b7zosfpmROr6w1CtaqmER3L2EmHXTPIfw5kLqw3S8TT7VC+SdjKmXkv9IIGSbzXFHHvqNngbj5luoyba4CRu2WjDrmFMT3DAXixb/JmxxZdLlwC0eQ0Aye46uR/+5ZdY7Hgiph6d2W1AbvXoapIslLZ8IxS68BOslIfj/E+j/vbXWRgqzokt2Y+8byhXBXy/9pwU4FUN7V2FabEMobhYKHgtofz9MY1qOh0hFwASOgAflqCTCAOiFOp+Vvrk6EDpOa3daCUADrRNdJQbEFGfWeQMocQx0v84DBgsqfwIQFYLaEJGA4yHbSdm3zkf/MHp4CIKViY8lrN6T5u8Oc8WJ6/czVnRqOg==
+        selected: false
+        status: Unchecked
+      - offset: 447
+        length: 10
+        placeholder_text: /* TODO */
+        initial_state:
+          length: 10
+          offset: 447
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1yWQ1xaHXBJJI9N5DZmCcgfniGA9jN5afY1kn9aptK3k75krg1BhboVnPLIbNWtbCGAvmraYUhXmpCsXStby0z5ZQ5bfXpiFf+XOwGHH2IbMzcUPy+EreNUc3ddWXEVVysrbcmn4U7oIHepv1kNSA1GhQh5S+NlK1qSSFLi/szm7+DBAW+7eEQznmgrU6As2tJ2f8cTViGfwG4riZoOQGZVTfi6VcDbDUZ4ZzoxB5mZxmm8dPWeil6LUtgHDFz2X+Ts4mxgf3Uer+GuQrKryyhGYzvXmjKdyH3ItLoAP805qy7Ebt7P2AweOJygE+CIZtUlXgJuiZl7DU8luqlwa6w==
+        selected: false
+        status: Unchecked
+    encrypted_text: NYgHoNruO3t7vIi6YFhoHy7/H3N0tonWil/L9SlJDt09zsxvXYcvUMj1gaTNMxBpZaIXMiDVqPx/1cMpG4gCugrYu6hXOCoYDkHiDmZcGmI1Yksdbj2Owb7caBo/O0RKWqcQGRDU2zlAK2W3yZg6DSZXWzJTwNw9HWiYhpNP/0N+eckeHEKUeSO/OfjbFBmDweljS/AW+Vzwaq2wse4n+t2P3Bj43TXN7oXEmW2BQhOLxnKzGw/EkIlmJcToQ19x1DnA/e/NDEh4euCpKtMd0BqamdD9Wos3+T4FMYp89N6azRjJki9h/qxJsERihKe4lQd94yl7w+f3gEqgtYzY5+EQceHqGFNjlcU6cUtmq7RSy2TrfkzHv7VdGVD8V2QyRnFikea/VpGfyWAqW9H7KzT92+zQzsEmlbjovf8vygzNvqzDWlLOvGBBF/A3AykVc35gl9PWkJ2htCXtPkqsuHfBO5Bum6y3RGFfnugLBvYMqVNp7UYrtY20uZib9+aDtSal6QPocCit/DySac8t4aQlRc5/DMNMciPGoRM/WZkwsWcfXMwxnLYUcaAEafCU4iCSDAvpQ31n3no1fwFpKqhZjHMrEQEXdqT5sdiLE8v0RQ/RoryrhLr7LeKLH8sbp+i0aRTiS4mJGu6DRh0Akg==
+    learner_created: false
+  - name: test/IntegerDigitsAdditionTest.java
+    visible: false
+    encrypted_text: ITs8Nv8EH6QWJG5nufD7nL+5+4bhYoXDvmVthWtIgQ65QGrosPwl8pWa8Roz0DaOdCol9j8janFY/3CS78djEWHuUTdF6vZobj4JIyDSTUjUtpXRT8e0W9L1DWcjl+qxCc+5uuWIffNPP8rqaiuFoCn6+rCxqw82F2s3w0TyZA/cCKkVil2fKMm8JColJ9ZQryiVPi97q7xAiy22ZOr1Ildd2xXTLHPyPh5NFMzu5xmkiW3czoByTiXICrNsMfvV1E5VtxxfdtayPc2GKNRXF5dpEsRg8R2+6us+EHJUnQWkLPeLC6A+Y29IDkgflxOJDbSiVSunsf+ytzzp/HpB5eq//TyDR2fRwHJ5rOsZ534RcFK1lwcePBJQyH342mSaS4Lf0BWo3CNq/3It4NX24guxtzH8krtA6HlLtrN2uqxmKkg8z4d/R9tfT4SEzFjIQmejhfUxXEKtWAWA42KY61piueFrDKeMTgYW3LxXeS54l0IyNrzCVGXiPfiaPADT9N5QHa+ZvWdXmRhkRpcyt+Q2xteRF2obv6yosAnjpCIPOx4Rphb6LW643kEY1fVwSwe3GKBPep4DZFGuS8kTwg==
+    learner_created: false
+status: Unchecked
+record: -1

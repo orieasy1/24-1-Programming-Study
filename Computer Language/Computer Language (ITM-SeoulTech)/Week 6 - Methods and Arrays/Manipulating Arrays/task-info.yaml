@@ -1,0 +1,319 @@
+type: theory
+files:
+  - name: src/SumArray.java
+    visible: true
+    placeholders:
+      - offset: 152
+        length: 134
+        placeholder_text: "/* Declare an array of integers and use an array initializer\
+      \ with\\n the following values \\\"87, 68, 94, 100, 83, 78, 85, 91, 76, 87\\\
+      \ */"
+        initial_state:
+          length: 134
+          offset: 152
+        initialized_from_dependency: false
+        encrypted_possible_answer: SIOz2yEVaYy0fLjrfMGkMHtWJ2tdnhNJbM2pVl2NWYAwgfcV+ArgWWGak0MxFOiVHwYIVlPSVVUHb/ytKkFoIw==
+        selected: false
+        status: Unchecked
+      - offset: 293
+        length: 45
+        placeholder_text: /* Declare and initialize a total variable */
+        initial_state:
+          length: 45
+          offset: 293
+        initialized_from_dependency: false
+        encrypted_possible_answer: kOyA89IjRS/X4AQ3C32RJQ==
+        selected: false
+        status: Unchecked
+      - offset: 414
+        length: 41
+        placeholder_text: ;; /* Complete the required for header */
+        initial_state:
+          length: 41
+          offset: 414
+        initialized_from_dependency: false
+        encrypted_possible_answer: HmZxy2kWRxuE5kufCzLD2d7Jn/o01FRXnQSLHlt1nnfwWq8L4NzjgwYmKCi2+9swU++xSmEuG80aFOF2pW1D9Q==
+        selected: false
+        status: Unchecked
+      - offset: 468
+        length: 100
+        placeholder_text: /* Update the value of the total variable by adding the element
+          of the array at the counter index */
+        initial_state:
+          length: 100
+          offset: 468
+        initialized_from_dependency: false
+        encrypted_possible_answer: cXiU9RXF4EiO/pCJhmbX728wvRdPyx31VK3UuGDRI4A=
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+  - name: src/InitArray3.java
+    visible: true
+    placeholders:
+      - offset: 176
+        length: 67
+        placeholder_text: /* Declare a constant called ARRAY_LENGTH and give it a value
+          of 10
+        initial_state:
+          length: 67
+          offset: 176
+        initialized_from_dependency: false
+        encrypted_possible_answer: tVN+AoYAfCQ1r32+sOXv6KRJ4ScHl7V9UIpZFKDBG5E=
+        selected: false
+        status: Unchecked
+      - offset: 274
+        length: 60
+        placeholder_text: /* Declare a new array of integers with size ARRAY_LENGTH */
+        initial_state:
+          length: 60
+          offset: 274
+        initialized_from_dependency: false
+        encrypted_possible_answer: wk7TJ1BtQAdGqFYiFRxpnlqzZNp6y5/7MH1njJ4dTgqMkvXo5+P89xcMVRhR3IoB
+        selected: false
+        status: Unchecked
+      - offset: 411
+        length: 41
+        placeholder_text: ;; /* Complete the required for header */
+        initial_state:
+          length: 41
+          offset: 411
+        initialized_from_dependency: false
+        encrypted_possible_answer: HmZxy2kWRxuE5kufCzLD2d7Jn/o01FRXnQSLHlt1nnfwWq8L4NzjgwYmKCi2+9swU++xSmEuG80aFOF2pW1D9Q==
+        selected: false
+        status: Unchecked
+      - offset: 465
+        length: 100
+        placeholder_text: /* Access the element in array at the counter index. Assign
+          the following value "2 + 2 * counter" */
+        initial_state:
+          length: 100
+          offset: 465
+        initialized_from_dependency: false
+        encrypted_possible_answer: A3qKGZJ8f8oUtb0rKOTjRJdmFAG2t6ACqLmzEPWTbY/hMni5WTmnuiQe5UZUiLN5
+        selected: false
+        status: Unchecked
+      - offset: 707
+        length: 41
+        placeholder_text: ;; /* Complete the required for header */
+        initial_state:
+          length: 41
+          offset: 707
+        initialized_from_dependency: false
+        encrypted_possible_answer: HmZxy2kWRxuE5kufCzLD2d7Jn/o01FRXnQSLHlt1nnfwWq8L4NzjgwYmKCi2+9swU++xSmEuG80aFOF2pW1D9Q==
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+  - name: src/InitArray1.java
+    visible: true
+    placeholders:
+      - offset: 245
+        length: 116
+        placeholder_text: |-
+          /* Declare an array, then initialize the variable with
+          a reference to an array object containing 10 int elements. */
+        initial_state:
+          length: 116
+          offset: 245
+        initialized_from_dependency: false
+        encrypted_possible_answer: wk7TJ1BtQAdGqFYiFRxpntR+xumbz57XbXv7INkj5Sw=
+        selected: false
+        status: Unchecked
+      - offset: 554
+        length: 120
+        placeholder_text: ;; /* Complete the required header for the for statement that
+          traverse all the elements in the array that you created */
+        initial_state:
+          length: 120
+          offset: 554
+        initialized_from_dependency: false
+        encrypted_possible_answer: HmZxy2kWRxuE5kufCzLD2d7Jn/o01FRXnQSLHlt1nnfwWq8L4NzjgwYmKCi2+9swU++xSmEuG80aFOF2pW1D9Q==
+        selected: false
+        status: Unchecked
+      - offset: 717
+        length: 34
+        placeholder_text: /* enter your counter variable  */
+        initial_state:
+          length: 34
+          offset: 717
+        initialized_from_dependency: false
+        encrypted_possible_answer: wGvERkZVWEh3mKgyUkFtBA==
+        selected: false
+        status: Unchecked
+      - offset: 753
+        length: 81
+        placeholder_text: /* access your array at the index given by the counter variable
+          current value  */
+        initial_state:
+          length: 81
+          offset: 753
+        initialized_from_dependency: false
+        encrypted_possible_answer: TdtKh26ARQeDklkozj3Q+Q==
+        selected: false
+        status: Unchecked
+    encrypted_text: QHCXtYPqN0sP4j/O3SM1pAvUlml7YFxMfqWKzKNzIm3j9frVKqCKAsEcRXbc01YWasnbINclVBmaKWPE91e3J+GgD37zbP+PQHS5qpSY/DfI1Np4JPpmw4LaAe33lnvnrcNF2HrNCu1hyvJCarkCUgScEbZmxTzGOJ+rJwXagMKGsg+6blZIuDogTY9H83oA1kMhaieq+NT9mWxo7L+Dngt167VbY3cqYxG+S2DlpBoXPK1yZ//jkzrRhKq6A0YGlS5LP3lCmakw4yNfBWKAjy7J3NhdaCDJaB0CwD9IHhi7Wz8vHQvARUTcEwdyKSXzmPYqUu2Nv4vlOMht+bPAJaNK441Uej7tLjPKMuPO/Mssy9D4TchnBpwLNDujxObVXgdReYtfz4GYxBa6OU+Xy40j4MLIBHPEC39yE2Y4KWfSgUbFKqSI8LIJhvcrxDmsif1F6fvzVB+v1uB+HHC7jnyA6LeXItrTY9sunpEhbsjQDABBFewhL5aXt7pC/Q6FV6OkmTMmZlFXbwQwa5iyNdSnePIKxZjKuGYnLtNaivFOILYxTPwQoCnWuxtMiVE/M06knWAisNN5KNBina5HKguPT0UbwnOZrZHVqIefPmCBqCmhpyragUYSVvYXQFkTFablr7PlphcKvJX1bHjqbvZNJjaSY0dkwQOJWFfRmKDXYN7IFKu+R2/922A8EMNKbbKsL2FcKi3zxHNEhzal9ufAZAI7lFShOeHpbFou0qL73NiZD6ebeY3glt+UR+FG0A5jKPbTxsLMzd5cjrvjanIzao9tctyCvAKy5XJ/gUAo2YY3Zf4c5UaFNDwkpTYNAsy1mtpNmsYMHvmpJVpMzWboqB+c6mXaSb9AM3IMcx8kljc0REb7dzszXzRM1ZyKrbfzz98Ip1SuD7qMwkMB0jYYoDJJEjC6z/BHqOjs5PYr6ZeIFuqAu0aHe7fbGt8XB2D71+fXFHR/cU1RJGbejgCSxIska+nGrF1RYDGD/xeGPxBZsiUC6zLSNHV6cX4/aZ1DmKnQeKMu49NDxtKv7/AWaqqjLw4SXUAqtHBVK/YzxevCwhRZNE/VDEYKll+3lmluqbof1mn5Qq1bNrPse8tVFpaHI0w6d8Aver65BCQTTvFCZ/TbNQ6sr4bJNErr1Xr8KBHLHlq1nCc5YAV5bowKcoM1wTRanKBV/5OD3yEGPMR73fLTJGk0nP5Z+YxSXLZ+m0fWtKsbsYVMZXfkL9rRnVwMnS4OtLZQeT+8IgLeXGfU2J8kO6VlfYQHVLJaNBiI1qtVZHkPjioxbE4w6RhjSHAujWyqu33CUf+Jg8uErU3wIP27tuNVpF1vu6BUq0nd2EoV+44zyocn57oYeJ0Mr9zoDsJ9Q7IrzvNM/xIWCq14T1sNDhvdadzPlqG5fh1nCxi/2ucR+STo3qFey0lXsM68G6NA0NWM4inhpMms4JBVUpNX/W7bgADpO8+Ga/dZNrpSQIzr6dUlz24fEy2Sb02elsu9AImTgei1+E7S+Tgrsq0Ep96LKsogRZ3BZM6MwfLhev/jN/ZXCBLu7+zvrp7ZsrsqG0Mr2JKt0UoS9AWQK7Nha3kFe3Y0bd2HI/9pj0hC1YotRSU2SXZ1h1U5LWePvfXG4THPidNVZjfzNaB35oYYw0D7G1SQIFHbyryD1B72uDDxso0OicJnIVdVaMOCNrO4TmTqZCKtmdjlvLuNv64c/11YiluMXHkrvPfUBpeSwtNJuXBjgwbgpJnYWVn2KN6Uj97CEyWM6weG6W599qDdI749YXHJ9tD3HsggFnZsHeputqwXFy5l+I5jQSEhopExeVmn3/L8+fUthjKKPZXxVyeh9IpQwUYxHO4lq9lsAMRy9tlrkghwTdZudLwYObqnap3XGsJe0w2WzIZHIfgQ9YNty5Ukzf81Z7WMHDbNKgLG8CMtsmcAZJAp/Jb2sFGSVLWkBusc3ngAlqhC0o34kb6ZgRnvaWXq4JXsi/xEWU23SNUm0jHecFSWEklGGyH6EDq+TADmt5AaIvdV2tvuDQYOUS5XDYUf8VJHIl2uwmcz+Kx0G8I9pmwFXLoXBAclujDLLMMq/hT2l/ShDyzP09/9+l+xJW2QKaWIzguqESToWsyNEPP/YvyKlSDDQ/8UfCq6K+3kbdU8kboLNrAFcAMh0Y3sbPu6ECTYeJOdRFH5dVgQbcdy2ULI5V5+VDH5GMLMW0VzYmmYsz3V2VnES759zwVPcqFefLcZHwv8FSL7fZwbnFfM47+Q+/7cjQFvdTbvFFd17voIQQ0KOg8jTZdkYymuKYlr3OaYYJ7ERbxRzKX3yuQpPGvSwmWlpE/EFdm4HY9F2VRcFvESN2TkWQhCsjm2uyB/istUt2vq4rgdHxHbg9C/7qnrquOP//seAaOyDUB9Dr1z0rfTvluUfaiBabK8Hcpde2lRBRTLoOLPGG42PuH3FTVXrIH8LZCeiNWnv0prd7nN60Xno9yUMy+TpJAlnV5zNlOBSCFkeL847HyVKFc0ZmEiemtXm6zySOoZH3HIOx8Mv6D60UKUHInfiqZtlPWv9OKXkAFy2UiU+wBsbAT5Z44o4DeJUiqkzp8qM36QhfHx9ntGf1NvOTy608ocp8R/NBULQ8z35uGdwn3WJrbXAA==
+    learner_created: false
+  - name: src/InitArray2.java
+    visible: true
+    placeholders:
+      - offset: 443
+        length: 41
+        placeholder_text: ;; /* Complete the required for header */
+        initial_state:
+          length: 41
+          offset: 443
+        initialized_from_dependency: false
+        encrypted_possible_answer: HmZxy2kWRxuE5kufCzLD2d7Jn/o01FRXnQSLHlt1nnfwWq8L4NzjgwYmKCi2+9swU++xSmEuG80aFOF2pW1D9Q==
+        selected: false
+        status: Unchecked
+      - offset: 536
+        length: 83
+        placeholder_text: /* access the array that you created at the index given by the
+          counter variable  */
+        initial_state:
+          length: 83
+          offset: 536
+        initialized_from_dependency: false
+        encrypted_possible_answer: TdtKh26ARQeDklkozj3Q+Q==
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+  - name: src/BarChart.java
+    visible: true
+    placeholders:
+      - offset: 133
+        length: 116
+        placeholder_text: "Declare and initialize an array representing the grade distribution\
+      \ of the students. Hint: use an array initializer."
+        initial_state:
+          length: 116
+          offset: 133
+        initialized_from_dependency: false
+        encrypted_possible_answer: WBOJHw5EbrxP6vla/OYWa5gsUln7vv52Joci/GhIlQNBrY14YVFZQtjiJlBcEVc/6rZoJ+9dL72QzwV6k6jxow==
+        selected: false
+        status: Unchecked
+      - offset: 371
+        length: 41
+        placeholder_text: ;; /* Complete the required for header */
+        initial_state:
+          length: 41
+          offset: 371
+        initialized_from_dependency: false
+        encrypted_possible_answer: HmZxy2kWRxuE5kufCzLD2d7Jn/o01FRXnQSLHlt1nnfwWq8L4NzjgwYmKCi2+9swU++xSmEuG80aFOF2pW1D9Q==
+        selected: false
+        status: Unchecked
+      - offset: 769
+        length: 108
+        placeholder_text: /* Complete the required for header. Pay special attention on
+          how many asterisks you would like to print. */
+        initial_state:
+          length: 108
+          offset: 769
+        initialized_from_dependency: false
+        encrypted_possible_answer: uRNfDGv5sQ4HepPA/4+OUvF6LLxUGAyt5VZirgR9nLrLCwhoLURd1x7tPWnjkHkR
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+  - name: src/RollDie.java
+    visible: true
+    placeholders:
+      - offset: 245
+        length: 163
+        placeholder_text: /* Create an array for counting the frequencies of a six-sided
+          roll. Assume that the index of the array will store the frequencies of each
+          side starting from 1  */
+        initial_state:
+          length: 163
+          offset: 245
+        initialized_from_dependency: false
+        encrypted_possible_answer: kIm7x2XPxvgP8YQmX6Hceiim9hAUc3egkXDlwS+Bpr0=
+        selected: false
+        status: Unchecked
+      - offset: 518
+        length: 41
+        placeholder_text: ;; /* Complete the required for header */
+        initial_state:
+          length: 41
+          offset: 518
+        initialized_from_dependency: false
+        encrypted_possible_answer: +xeI5y8Iu891ckcJBR8p08qkahEWMqZyR7ISlKR7XKekDHIbchJ0Eyw3kw0Bov4B
+        selected: false
+        status: Unchecked
+      - offset: 572
+        length: 111
+        placeholder_text: /* Increase the the counter of frequencies according to the
+          output of the invoking randomNumbers.nextInt(6)  */
+        initial_state:
+          length: 111
+          offset: 572
+        initialized_from_dependency: false
+        encrypted_possible_answer: wgKIvBiGqba2zaBSm6CeoKrnn3y6qqgcPGXnqZp5lv9VXT0EFdkVnPBtZNM/pX3r
+        selected: false
+        status: Unchecked
+      - offset: 809
+        length: 41
+        placeholder_text: ;; /* Complete the required for header */
+        initial_state:
+          length: 41
+          offset: 809
+        initialized_from_dependency: false
+        encrypted_possible_answer: Ff0lT3Dl0RWk2ZDdZcRO8cO28OApPGSczXj40eIcbWGY80Lj9tCZaTxw3fj4ZOVl
+        selected: false
+        status: Unchecked
+      - offset: 894
+        length: 38
+        placeholder_text: /* Print the face number of the die */
+        initial_state:
+          length: 38
+          offset: 894
+        initialized_from_dependency: false
+        encrypted_possible_answer: DIMtdmh3l9PEuGJxS1Bqng==
+        selected: false
+        status: Unchecked
+      - offset: 934
+        length: 69
+        placeholder_text: "/* Print the frequency of rolling that face in the 600,000\
+      \ trials  */"
+        initial_state:
+          length: 69
+          offset: 934
+        initialized_from_dependency: false
+        encrypted_possible_answer: oJsUcLWsqNlfmpJIz/x41w==
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+  - name: src/StudentPoll.java
+    visible: true
+    placeholders:
+      - offset: 299
+        length: 92
+        placeholder_text: /* Create a new integer array to store the frequency counters
+          for */ the food rates (1 to 5)
+        initial_state:
+          length: 92
+          offset: 299
+        initialized_from_dependency: false
+        encrypted_possible_answer: zHgD2G13L27sKgL0vae7n3fQ0baTVNJTQgb3gzmQo5Y=
+        selected: false
+        status: Unchecked
+      - offset: 634
+        length: 73
+        placeholder_text: /* Increase the frequency counter according to the students'
+          responses */
+        initial_state:
+          length: 73
+          offset: 634
+        initialized_from_dependency: false
+        encrypted_possible_answer: RikkGPCxUvzgCC7QoQSEa7BV3Qa9XHMT/8YlZibiYckMsvNoKJayCngRdK3to2y3qGmVNlPzFK6U4xye3RkgELWr53TJLw2n6/kFg+cBKHXIWt4QtN14CYjkBrvVQcrpwjh3//NglNDhWAz0dRsegwvQXqWM9DDFVM+jKOpJTU6/EoUM8EeWQ5UlHJSpsEToSaxUv1mz5pNcGfPZMfYKikHHwPzSIwT+NcNhuHhqbuPc60XjJyDNIJMa12bTmPX6zimi0GClBG581Oq+eEbWcRan1+E38/kmKWVyU1PqhfpQXq/pBp3A1FRb8yySJrsuVupjSGBInOL+1+/t5WJAdSUo841LmHkufsI2kPiv4FQaqPwTEo1QzV3rW8K0Ni4z5Z3QNnYUFiKWKiHZR9W4RfI55blTqpQtggt42D1fujsCYvjrc8MioB8h6VuJ4A+uHUhO2ow8RjLw37MQJjtMggP4TKPdxYjvAhb/GCv+Ahl9CasBm0Pw/KyhOVbJwx+OnFX1SJgZJTKzmgbBREntkcXTBWZbFJB48Jb6ZITjXDgwPI2zGXtuYJHydVVWrGWIkClzVK1/0ynxSodld9E0k4n0sfslgAXRb7xHusD2b29DcrSynLEe0TpsRwx2xQ4qYEi6wXZSqm5rvCQ/gtAwAA==
+        selected: false
+        status: Unchecked
+    encrypted_text: 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
+    learner_created: false
+status: Unchecked
+record: -1
+solution_hidden: true
+post_submission_on_open: true
