@@ -4,7 +4,186 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d35031c3-38ae-4ea8-998a-7d658ccc4c0d" name="Changes" comment="" />
+    <list default="true" id="d35031c3-38ae-4ea8-998a-7d658ccc4c0d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/classnObject2/enumType/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classnObject2/enumType/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classnObject2/overloadedConstructors/Time2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classnObject2/overloadedConstructors/Time2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classnObject2/timeclasscase/MemberAccessTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classnObject2/timeclasscase/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/classnObject2/timeclasscase/Time1Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/8.4/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/8.4/dependencies-accessors/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/8.4/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/8.4/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/file-system.probe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Displaying Two Messages/src/Hello2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Displaying Two Messages/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Displaying Two Messages/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Displaying Two Messages/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Displaying Two Messages/test/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Displaying Two Messages/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Goodbye task/src/Goodbye.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Goodbye task/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Goodbye task/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Goodbye task/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Goodbye task/test/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Goodbye task/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/The Hellow World Program/src/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/The Hellow World Program/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/The Hellow World Program/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/The Hellow World Program/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/The Hellow World Program/test/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/The Hellow World Program/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Using Escape Sequences/src/Hello3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Using Escape Sequences/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Using Escape Sequences/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Using Escape Sequences/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Using Escape Sequences/test/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/Using Escape Sequences/test/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 1 - Computer Programming/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/BMI Calculator/src/BMICalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/BMI Calculator/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/BMI Calculator/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/BMI Calculator/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/BMI Calculator/test/BMICalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Integer digits addition/src/IntegerDigitsAddition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Integer digits addition/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Integer digits addition/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Integer digits addition/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Integer digits addition/test/IntegerDigitsAdditionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Various Computations/src/SimpleArithmetic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Various Computations/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Various Computations/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Various Computations/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/Various Computations/test/SimpleArithmeticTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 2   3 - Data Types and Operators/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Arrays as arguments/src/PassArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Arrays as arguments/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Arrays as arguments/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Arrays as arguments/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Class Arrays/src/ArrayManipulations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Class Arrays/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Class Arrays/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Class Arrays/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/src/BarChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/src/InitArray1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/src/InitArray2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/src/InitArray3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/src/RollDie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/src/StudentPoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/src/SumArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Manipulating Arrays/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Maximum finder/src/MaximumFinder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Maximum finder/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Maximum finder/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Maximum finder/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Maximum finder/test/MaximumFinderTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Multidimensional Arrays/src/InitArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Multidimensional Arrays/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Multidimensional Arrays/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Multidimensional Arrays/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Student Poll/src/StudentPoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Student Poll/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Student Poll/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Student Poll/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Test code/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Test code/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Test code/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Test code/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Using command-line arguments/src/InitArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Using command-line arguments/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Using command-line arguments/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/Using command-line arguments/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 6 - Methods and Arrays/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/0. Test Code/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/0. Test Code/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/0. Test Code/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/0. Test Code/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/1. First class/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/1. First class/src/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/1. First class/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/1. First class/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/1. First class/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/1. First class/test/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/2. Adding a class constructor/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/2. Adding a class constructor/src/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/2. Adding a class constructor/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/2. Adding a class constructor/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/2. Adding a class constructor/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/2. Adding a class constructor/test/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/3. Account class with a balance/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/3. Account class with a balance/src/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/3. Account class with a balance/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/3. Account class with a balance/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/3. Account class with a balance/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/3. Account class with a balance/test/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/4. Case Study - Card Shuffling/src/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/4. Case Study - Card Shuffling/src/DeckOfCards.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/4. Case Study - Card Shuffling/src/DeckOfCardsTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/4. Case Study - Card Shuffling/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/4. Case Study - Card Shuffling/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/4. Case Study - Card Shuffling/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/5. Case Study - Gradebook/src/GradeBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/5. Case Study - Gradebook/src/GradeBookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/5. Case Study - Gradebook/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/5. Case Study - Gradebook/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/5. Case Study - Gradebook/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/6. Case Study - Gradebook II/src/GradeBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/6. Case Study - Gradebook II/src/GradeBookTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/6. Case Study - Gradebook II/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/6. Case Study - Gradebook II/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/6. Case Study - Gradebook II/task.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/Week 7 - Intro to Classes and Objects/lesson-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/course-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer Language (ITM-SeoulTech)/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/MethodMaxFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/MethodMaxFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/account1/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/account1/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/account1/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/account1/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/account2/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/account2/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/account2/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/account2/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/account3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/account3/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/account3/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/account3/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/cardShuffling/Card.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/cardShuffling/Card.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/cardShuffling/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/cardShuffling/DeckOfCards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/cardShuffling/DeckOfCardsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/cardShuffling/DeckOfCardsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/gradeBook/GradeBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/gradeBook/GradeBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/gradeBook/GradeBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/gradeBook/GradeBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/gradeBook2/GradeBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/gradeBook2/GradeBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/comLangCode/gradeBook2/GradeBookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/comLangCode/gradeBook2/GradeBookTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/KoreanExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/selfStudyCode/KoreanExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/selfStudyCode/car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/car/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/selfStudyCode/car/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/car/StudentExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/selfStudyCode/car/StudentExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/carConstructor/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/selfStudyCode/carConstructor/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/classnInstance/selfStudyCode/carConstructor/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/classnObject/selfStudyCode/carConstructor/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java Review/2024-03-24-ch5ReferenceType.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java Review/2024-03-24-ch5ReferenceType.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/2024-03-29-IntroductionSpring03.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/2024-03-29-IntroductionSpring03.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/main/java/com/example/springstudycode/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/main/java/com/example/springstudycode/domain/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/main/java/com/example/springstudycode/repository/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/main/java/com/example/springstudycode/repository/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/main/java/com/example/springstudycode/repository/MemoryMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/main/java/com/example/springstudycode/repository/MemoryMemberRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +197,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -39,6 +219,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Gradle.JavaCode [:AccountTest.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.JavaCode [:ArraysEx01.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.JavaCode [:ArraysEx02.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.JavaCode [:ArraysEx05.main()].executor&quot;: &quot;Run&quot;,
@@ -96,6 +277,10 @@
       <workItem from="1713657462063" duration="18833000" />
       <workItem from="1713695593594" duration="13071000" />
       <workItem from="1713750084016" duration="254000" />
+      <workItem from="1713750459125" duration="4017000" />
+      <workItem from="1713758484030" duration="1632000" />
+      <workItem from="1713884202310" duration="4000" />
+      <workItem from="1714406670384" duration="301000" />
     </task>
     <servers />
   </component>

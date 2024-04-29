@@ -1,4 +1,4 @@
-package classnInstance.selfStudyCode.car;
+package classnObject.selfStudyCode.car;
 
 public class CarExample {
     public static void main(String[] args) {

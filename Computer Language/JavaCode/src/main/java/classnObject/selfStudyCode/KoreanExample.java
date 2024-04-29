@@ -1,4 +1,4 @@
-package classnInstance.selfStudyCode;
+package classnObject.selfStudyCode;
 
 class Korean{
     String nation = "대한민국";

@@ -1,4 +1,4 @@
-package classnInstance.comLangCode.cardShuffling;
+package classnObject.comLangCode.cardShuffling;
 
 import java.security.SecureRandom;
 

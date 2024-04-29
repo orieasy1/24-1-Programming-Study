@@ -80,7 +80,7 @@ toBuy.push("kimbap");
 console.log(toBuy[2]);
 ```
 
-**Ojects**
+**Objects**
 
 만약 게임을 만들고 있다고 생각해보자.
 그럼 우리는 캐릭터를 만들어야할 것이다.
@@ -160,7 +160,8 @@ console.log(player);
 다음과 같이 작성해주기만 하면 된다.
 <br>
 
-<h3>Functions</h3>
+### Functions
+
 함수는 내가 계속 반복해서 사용할 수 있는 코드 조각이다.
 함수는 어떤 코드들 캡슐화해서 여러번 사용할 수 있게 해준다.
 

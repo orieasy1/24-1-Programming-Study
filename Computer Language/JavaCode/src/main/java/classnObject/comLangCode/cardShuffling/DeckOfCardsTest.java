@@ -1,4 +1,4 @@
-package classnInstance.comLangCode.cardShuffling;
+package classnObject.comLangCode.cardShuffling;
 
 public class DeckOfCardsTest {
     public static void main(String[] args) {

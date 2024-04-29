@@ -1,4 +1,4 @@
-package classnInstance.comLangCode.gradeBook;
+package classnObject.comLangCode.gradeBook;
 
 public class GradeBookTest {
     public static void main(String[] args) {

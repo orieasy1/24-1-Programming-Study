@@ -1,4 +1,4 @@
-package classnInstance.comLangCode.account3;
+package classnObject.comLangCode.account3;
 
 public class Account {
     private String name; // instance variable

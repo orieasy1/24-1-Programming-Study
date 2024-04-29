@@ -1,4 +1,4 @@
-package classnInstance.comLangCode.gradeBook2;
+package classnObject.comLangCode.gradeBook2;
 
 public class GradeBook {
     private String courseName;
