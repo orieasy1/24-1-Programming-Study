@@ -40,4 +40,4 @@ public class AccountTest {
         System.out.printf("%s balance: $%.2f%n%n",
                 account2.getName(), account2.getBalance());
     }
-} 
+}

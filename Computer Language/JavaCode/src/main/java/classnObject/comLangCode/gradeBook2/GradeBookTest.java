@@ -3,7 +3,8 @@ package classnInstance.comLangCode.gradeBook2;
 public class GradeBookTest {
     public static void main(String[] args) {
         // two-dimensional array of student grades
-        int[][] gradesArray = {{87, 96, 70},
+        int[][] gradesArray = {
+                {87, 96, 70},
                 {68, 87, 90},
                 {94, 100, 90},
                 {100, 81, 82},
