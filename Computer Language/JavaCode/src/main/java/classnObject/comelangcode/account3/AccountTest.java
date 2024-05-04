@@ -1,4 +1,4 @@
-package classnObject.comLangCode.account3;
+package classnObject.comelangcode.account3;
 
 import java.util.Scanner;
 

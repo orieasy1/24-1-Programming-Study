@@ -1,4 +1,4 @@
-package classnObject.comLangCode.cardShuffling;
+package classnObject.comelangcode.cardShuffling;
 
 public class Card {
     private final String face;

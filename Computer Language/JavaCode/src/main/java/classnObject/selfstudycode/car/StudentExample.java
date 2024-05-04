@@ -1,4 +1,4 @@
-package classnObject.selfStudyCode.car;
+package classnObject.selfstudycode.car;
 
 class Student {
 

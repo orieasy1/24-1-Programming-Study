@@ -1,4 +1,4 @@
-package classnObject.comLangCode.gradeBook;
+package classnObject.comelangcode.gradeBook;
 
 public class GradeBook {
     private String courseName;

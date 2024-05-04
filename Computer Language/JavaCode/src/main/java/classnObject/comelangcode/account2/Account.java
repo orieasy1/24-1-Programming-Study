@@ -1,4 +1,4 @@
-package classnObject.comLangCode.account2;
+package classnObject.comelangcode.account2;
 
 public class Account {
     private String name;

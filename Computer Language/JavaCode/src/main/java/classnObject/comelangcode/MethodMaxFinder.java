@@ -1,4 +1,4 @@
-package classnObject.comLangCode;
+package classnObject.comelangcode;
 
 import java.util.Scanner;
 

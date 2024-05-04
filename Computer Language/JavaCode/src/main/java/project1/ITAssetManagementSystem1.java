@@ -2,7 +2,7 @@ package project1;
 
 import java.util.Scanner;
 
-public class ITAssetManagementSystem {
+public class ITAssetManagementSystem1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int choice = 0;

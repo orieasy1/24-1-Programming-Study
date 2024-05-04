@@ -1,4 +1,4 @@
-package classnObject.selfStudyCode.carConstructor;
+package classnObject.selfstudycode.carConstructor;
 
 public class Car {
     String company = "Hyundai";
