@@ -2,6 +2,10 @@
 
 ## Class and Objects: A Deeper Look
 
+* throw exception
+* this: overloaded constructor
+* enum type
+
 ### Last week review
 
 * What's the purpose of keyword new? Explain what happens when you use it.
@@ -18,4 +22,14 @@ This prevents the variable from being modified accidentally by a class in anothe
 <br><br> 
 For example, the owner of a bank account should be able to deposit or withdraw funds an check the account's balance.dkseh 
 A class's designer can provide public set and get methods that enable an application to specify the value for  or retrieve the value of a particular object's private instantce variable.
+
+
+### Overloded Constructor
+
+Every object can access a reference to itself with keyword this.
+Can use this reference implicitly and explicitly.
+
+Overloaded Consturctuors enable objects of a class to be initialized in different ways.
+To overload constructors, sitmply provide multiple constructor declarations with different signatures.
+Recall that the complier differentiates signatures by the number of parameter types in each signature.
 
