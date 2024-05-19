@@ -31,4 +31,13 @@ public class AssetSet {
             System.out.println("Software array is full.");
         }
     }
+
+    public void printHardwareDetails(int i) {
+        System.out.println(hardwares[i].toString());
+    }
+
+    public void printSoftwareDetails(int i) {
+        System.out.println(softwares[i].toString());
+    }
+
 }

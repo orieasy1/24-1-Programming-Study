@@ -20,12 +20,14 @@ public class Untils {
         for (int i = 0; i < hardwareSize; i++) {
             System.out.println("Registering Hardware Asset " + (i + 1) + " of " + hardwareSize);
             assetSet.addHardware(registerHardwareAsset());
+            assetSet.printHardwareDetails(i);
             System.out.println();
         }
 
         for (int i = 0; i < softwareSize; i++) {
             System.out.println("Registering Software Asset " + (i + 1) + " of " + softwareSize);
             assetSet.addSoftware(registerSoftwareAsset());
+            assetSet.printSoftwareDetails(i);
             System.out.println();
         }
     }
@@ -61,7 +63,6 @@ public class Untils {
         float price = scanner.nextFloat();
 
         Hardware hardware = new Hardware(id, name, department, category, price);
-        System.out.println(hardware.toString());
         return hardware;
     }
 
@@ -91,7 +92,6 @@ public class Untils {
         String licenseKey = scanner.next();
 
         Software software = new Software(id, name, department, price, licenseKey);
-        System.out.println(software.toString());
         return software;
     }
 }

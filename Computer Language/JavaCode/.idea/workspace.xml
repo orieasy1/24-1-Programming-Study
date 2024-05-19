@@ -5,14 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d35031c3-38ae-4ea8-998a-7d658ccc4c0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/project2/Hardware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project2/HardwareCategoryEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project2/Software.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project2/Untils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project2/asset/AssetSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project2/asset/DepartmentEnum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project2/Untils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project2/Untils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project2/asset/AssetSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project2/asset/AssetSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/project2/asset/DepartmentEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project2/asset/DepartmentEnum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +126,7 @@
       <workItem from="1715323389663" duration="867000" />
       <workItem from="1715341786470" duration="620000" />
       <workItem from="1715567465341" duration="1888000" />
-      <workItem from="1716119031849" duration="8328000" />
+      <workItem from="1716119031849" duration="10472000" />
     </task>
     <servers />
   </component>
