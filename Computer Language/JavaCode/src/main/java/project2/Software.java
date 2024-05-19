@@ -21,7 +21,7 @@ public class Software {
     @Override
     public String toString() {
         return String.format(
-                "%nSoftware regitered succesfully!%nID: %d%nName: %s%nDepartment: %s (%d)%nPrice: %.2f%nLicense Key: %s",
+                "%nSoftware registered succesfully!%nID: %d%nName: %s%nDepartment: %s (%d)%nPrice: %.2f%nLicense Key: %s",
                 id, name, department.getName(), department.getNum(), price, licenseKey
         );
     }

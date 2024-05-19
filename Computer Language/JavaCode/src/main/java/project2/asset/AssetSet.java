@@ -20,7 +20,7 @@ public class AssetSet {
         if (hardwareCount < hardwares.length) {
             hardwares[hardwareCount++] = hardware;
         } else {
-            System.out.println("Hardware array is full.");
+            System.out.println("All hardware assets have been stored");
         }
     }
 
@@ -28,7 +28,7 @@ public class AssetSet {
         if (softwareCount < softwares.length) {
             softwares[softwareCount++] = software;
         } else {
-            System.out.println("Software array is full.");
+            System.out.println("All software assets have been stored");
         }
     }
 
