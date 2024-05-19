@@ -1,10 +1,10 @@
-package project2;
+package project2.asset;
 
 public enum DepartmentEnum {
     IT(1, "IT"),
     HR(2, "HR"),
-    Finance(3, "Finance"),
-    Marketing(4, "Marketing");
+    FiNANCE(3, "Finance"),
+    MARKETING(4, "Marketing");
 
     private final int num;
     private final String name;
@@ -21,5 +21,14 @@ public enum DepartmentEnum {
 
     public String getName() {
         return name;
+    }
+
+    public static DepartmentEnum fromNum(int num) {
+        for (DepartmentEnum department : values()) {
+            if (department.getNum() == num) {
+                return department;
+            }
+        }
+        throw new IllegalArgumentException("Invalid department number: " + num);
     }
 }
