@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d35031c3-38ae-4ea8-998a-7d658ccc4c0d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/project2/asset/AssetSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/project2/asset/AssetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw2/HW2Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw2/Hw2Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw2/Hw2Ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw3/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw3/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw3/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +64,7 @@
     "Gradle.JavaCode [:ITAssetManagementSystem.main()].executor": "Run",
     "Gradle.JavaCode [:MultipleSelection.main()].executor": "Run",
     "Gradle.JavaCode [:MultipleSelection_1.main()].executor": "Run",
+    "Gradle.JavaCode [:SmartMobilePhone.main()].executor": "Run",
     "Gradle.JavaCode [:Untils.main()].executor": "Run",
     "Gradle.JavaCode [:WeekExample.main()].executor": "Run",
     "Gradle.JavaCode [:While04.main()].executor": "Run",
@@ -67,6 +75,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/easy1/Programming-Study/24-1-Programming-Study/Computer Language/JavaCode/src/main/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,6 +89,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\easy1\Programming-Study\24-1-Programming-Study\Computer Language\JavaCode\src\main\java" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\easy1\Programming-Study\24-1-Programming-Study\Computer Language\JavaCode\src\main\java" />
     </key>
@@ -123,7 +135,10 @@
       <workItem from="1715323389663" duration="867000" />
       <workItem from="1715341786470" duration="620000" />
       <workItem from="1715567465341" duration="1888000" />
-      <workItem from="1716119031849" duration="11303000" />
+      <workItem from="1716119031849" duration="13449000" />
+      <workItem from="1716174297553" duration="211000" />
+      <workItem from="1716174532992" duration="111000" />
+      <workItem from="1716326082175" duration="112000" />
     </task>
     <servers />
   </component>
