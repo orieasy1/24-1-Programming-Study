@@ -1,4 +1,4 @@
-package project3;
+package project3.menu;
 
 public enum MainMenuEnum {
     //Definition of the MainMenuEnum enum

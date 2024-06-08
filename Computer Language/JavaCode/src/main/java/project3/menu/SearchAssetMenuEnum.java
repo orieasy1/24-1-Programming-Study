@@ -1,4 +1,4 @@
-package project3;
+package project3.menu;
 
 public enum SearchAssetMenuEnum {
     //Definition of the SearchAsseMenuEnum enum

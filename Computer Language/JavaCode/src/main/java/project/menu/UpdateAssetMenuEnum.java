@@ -1,4 +1,4 @@
-package project4.menu;
+package project.menu;
 
 public enum UpdateAssetMenuEnum {
     EDIT_BY_ID(1, "Edit by asset information (ID)"),

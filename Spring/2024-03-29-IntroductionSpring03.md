@@ -305,4 +305,6 @@ class MemoryMemberRepositoryTest {
 
 ### 회원 서비스 개발
 
+Service는 repository와 domain을 활용하여 실제 비즈니스 로직을 구현하는 것이다.
+
 ### 회원 서비스 테스트

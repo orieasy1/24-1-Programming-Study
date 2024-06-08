@@ -1,4 +1,4 @@
-package project4;
+package project;
 
 public enum DepartmentEnum {
     IT(1, "IT"),

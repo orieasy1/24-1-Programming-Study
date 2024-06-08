@@ -1,4 +1,4 @@
-package project4.menu;
+package project.menu;
 
 public enum MainMenuEnum {
     REGISTER_ASSET(1, "Register Asset"),

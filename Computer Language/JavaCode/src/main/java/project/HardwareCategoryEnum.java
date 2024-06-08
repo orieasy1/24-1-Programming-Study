@@ -1,4 +1,4 @@
-package project4;
+package project;
 
 public enum HardwareCategoryEnum {
     INPUT(1, "Input"),

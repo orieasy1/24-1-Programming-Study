@@ -5,14 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d35031c3-38ae-4ea8-998a-7d658ccc4c0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw2/HW2Ex02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw2/Hw2Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw2/Hw2Ex03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw3/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw3/Ex01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw3/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/homework/hw3/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ReadFiletoArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/DepartmentEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/Hardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/HardwareCategoryEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/ITAsset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/menu/MainMenuEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/menu/RegisterAssetMenuEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/menu/SearchAssetMenuEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project/menu/UpdateAssetMenuEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project3/Hardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project3/HardwareCategoryEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project3/ITAssetManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project3/Software.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project3/asset/AssetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project3/asset/DepartmentEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project3/menu/MainMenuEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project3/menu/RegisterAssetMenuEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project3/menu/SearchAssetMenuEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project4/Hardware.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project4/ITAsset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project4/ITAssetManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project4/ITAssetSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/project4/Software.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2024-05-13-OOPInheritance.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/2024-03-29-IntroductionSpring03.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/2024-03-29-IntroductionSpring03.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/test/java/com/example/springstudycode/repository/MemoryMemberRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/test/java/com/example/springstudycode/repository/MemoryMemberRepositoryTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,47 +68,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.JavaCode [:AccountTest.main()].executor": "Run",
-    "Gradle.JavaCode [:ArraysEx01.main()].executor": "Run",
-    "Gradle.JavaCode [:ArraysEx02.main()].executor": "Run",
-    "Gradle.JavaCode [:ArraysEx05.main()].executor": "Run",
-    "Gradle.JavaCode [:ArraysEx06.main()].executor": "Run",
-    "Gradle.JavaCode [:ArraysEx07.main()].executor": "Run",
-    "Gradle.JavaCode [:CarExample.main()].executor": "Run",
-    "Gradle.JavaCode [:DeckOfCardsTest.main()].executor": "Run",
-    "Gradle.JavaCode [:ForEx01.main()].executor": "Run",
-    "Gradle.JavaCode [:GradeBookTest.main()].executor": "Run",
-    "Gradle.JavaCode [:ITAssetManagementSystem.main()].executor": "Run",
-    "Gradle.JavaCode [:MultipleSelection.main()].executor": "Run",
-    "Gradle.JavaCode [:MultipleSelection_1.main()].executor": "Run",
-    "Gradle.JavaCode [:SmartMobilePhone.main()].executor": "Run",
-    "Gradle.JavaCode [:Untils.main()].executor": "Run",
-    "Gradle.JavaCode [:WeekExample.main()].executor": "Run",
-    "Gradle.JavaCode [:While04.main()].executor": "Run",
-    "Gradle.JavaCode [:WhileEx02.main()].executor": "Run",
-    "Gradle.JavaCode [:WhileStatement.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/easy1/Programming-Study/24-1-Programming-Study/Computer Language/JavaCode/src/main/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "build.tools",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.JavaCode [:AccountTest.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:ArraysEx01.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:ArraysEx02.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:ArraysEx05.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:ArraysEx06.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:ArraysEx07.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:CarExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:DeckOfCardsTest.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:ForEx01.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:GradeBookTest.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:ITAssetManagementSystem.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:MultipleSelection.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:MultipleSelection_1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:SmartMobilePhone.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:Untils.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:WeekExample.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:While04.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:WhileEx02.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.JavaCode [:WhileStatement.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/easy1/Programming-Study/24-1-Programming-Study/Computer Language/JavaCode/src/main/java/project4&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\easy1\Programming-Study\24-1-Programming-Study\Computer Language\JavaCode\src\main\java\project4" />
+      <recent name="C:\Users\easy1\Programming-Study\24-1-Programming-Study\Computer Language\JavaCode\src\main\java\project3" />
       <recent name="C:\Users\easy1\Programming-Study\24-1-Programming-Study\Computer Language\JavaCode\src\main\java" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -97,6 +118,10 @@
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="collectionFramwork" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="project4" />
+      <recent name="project3" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -139,6 +164,20 @@
       <workItem from="1716174297553" duration="211000" />
       <workItem from="1716174532992" duration="111000" />
       <workItem from="1716326082175" duration="112000" />
+      <workItem from="1716376813731" duration="2420000" />
+      <workItem from="1716525589791" duration="2649000" />
+      <workItem from="1716828275352" duration="594000" />
+      <workItem from="1716887164018" duration="14000" />
+      <workItem from="1717305982168" duration="311000" />
+      <workItem from="1717306450057" duration="7798000" />
+      <workItem from="1717376656043" duration="2673000" />
+      <workItem from="1717382828359" duration="730000" />
+      <workItem from="1717388374258" duration="834000" />
+      <workItem from="1717389349982" duration="320000" />
+      <workItem from="1717693143379" duration="6649000" />
+      <workItem from="1717753175619" duration="3186000" />
+      <workItem from="1717757205822" duration="596000" />
+      <workItem from="1717757891918" duration="1931000" />
     </task>
     <servers />
   </component>
@@ -155,6 +194,18 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/project2/Hardware.java</url>
+          <line>7</line>
+          <properties field="department" class="project2.Hardware" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

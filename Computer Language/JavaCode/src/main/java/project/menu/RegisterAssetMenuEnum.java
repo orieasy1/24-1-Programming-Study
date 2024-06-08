@@ -1,4 +1,4 @@
-package project4.menu;
+package project.menu;
 
 public enum RegisterAssetMenuEnum {
     //Definition of the RegisterAsseMenuEnum enum
