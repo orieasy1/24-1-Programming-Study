@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d35031c3-38ae-4ea8-998a-7d658ccc4c0d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReadFiletoArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/DepartmentEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/Hardware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/HardwareCategoryEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/ITAsset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/menu/MainMenuEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/menu/RegisterAssetMenuEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/menu/SearchAssetMenuEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project/menu/UpdateAssetMenuEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project3/Hardware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project3/HardwareCategoryEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project3/ITAssetManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project3/Software.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project3/asset/AssetSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project3/asset/DepartmentEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project3/menu/MainMenuEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project3/menu/RegisterAssetMenuEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project3/menu/SearchAssetMenuEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project4/Hardware.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project4/ITAsset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project4/ITAssetManagementSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project4/ITAssetSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/project4/Software.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2024-05-13-OOPInheritance.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/2024-03-29-IntroductionSpring03.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/2024-03-29-IntroductionSpring03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/test/java/com/example/springstudycode/repository/MemoryMemberRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Spring/SpringStudyCode/src/test/java/com/example/springstudycode/repository/MemoryMemberRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Final2023/problem02_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Final2023/problem02_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,6 +152,7 @@
       <workItem from="1717753175619" duration="3186000" />
       <workItem from="1717757205822" duration="596000" />
       <workItem from="1717757891918" duration="1931000" />
+      <workItem from="1717909564180" duration="14000" />
     </task>
     <servers />
   </component>

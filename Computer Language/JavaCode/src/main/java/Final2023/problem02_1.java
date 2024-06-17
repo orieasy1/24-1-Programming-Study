@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Random;
 import java.util.Scanner;
 
-public class problem02 {
+public class problem02_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
