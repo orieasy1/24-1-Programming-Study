@@ -1,4 +1,5 @@
-package project4;
+/*
+* package project4;
 
 
 import project.DepartmentEnum;
@@ -9,6 +10,8 @@ import project.menu.SearchAssetMenuEnum;
 import project.menu.UpdateAssetMenuEnum;
 
 import java.util.Scanner;
+
+import static project3.ITAssetManagementSystem.scanner;
 
 
 public class ITAssetManagementSystem {
@@ -293,3 +296,5 @@ public class ITAssetManagementSystem {
         }
     }
 }
+
+* */

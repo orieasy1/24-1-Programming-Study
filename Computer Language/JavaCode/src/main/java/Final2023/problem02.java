@@ -40,7 +40,6 @@ public class problem02 {
         int maxRowIndex = 0;
         int maxValue = matrix[0][0];
 
-        for
         /*for (int i = 0; i < row; i++) {
             for (int j = 0; j < column; j++) {
                 if (matrix[i][j] > maxValue) {
