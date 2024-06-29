@@ -141,5 +141,12 @@ ApplicationContext는 다음과 같은 추가 기능을 지원한다.
 * 이벤트 발행 및 구독(이벤트 프로그래밍 모델 지원)
 * 애플리케이션 라이프 사이클 관리
 
+<br>
+ApplicationContext의 구현 클래스들
+
+* AnnotationConfigApplicationContext: 자바 애노테이션 기반 설정 파일(예: AppConfig.class)을 읽어 빈을 생성
+* GenericXmlApplicationContext: XML 기반 설정 파일(appConfig.xml)을 읽어 빈을 생성.
+<br>
 
 #### 빈이란?
+스프링 컨테이너가 생성하고 관리하는 객체
