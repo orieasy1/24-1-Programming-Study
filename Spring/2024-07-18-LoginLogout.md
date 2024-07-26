@@ -17,14 +17,34 @@ UserDetailsService에서는 loadUserByUsername() 메서드를 실행하여 이�
 로그아웃 로직은 SecurityContextLogoutHander에서 제공하는 logout() 메서드를 실행
 
 ## Spring Security
-스프링 시큐리티는 스프링 기반의 애플리케이션 보안(인증, 인가, 권한)을 담당하는 스프링 하위 프레임워크이다.
 
 ### 인증과 인가
 * 인증: 사용자의 신원을 입증하는 과정
     * 사용자가 사이트에 로그인을 할 때 누구인지 확인하는 과정
 * 인가: 사이트의 특정 부분에 접근할 수 잇는지 권한을 확인하는 작업
-스프링 시ㅠ리티를 사용하면 인증과 인가 관련 코드를 쉽게 
+스프링 시큐리티를 사용하면 인증과 인가 관련 코드를 비교적 아주 쉽게 처리할 수 있다.
 
 ### 스프링 시큐리티
+스프링 시큐리티는 스프링 기반의 애플리케이션 보안(인증, 인가, 권한)을 담당하는 스프링 하위 프레임워크이다.
+<br>
+
 보안 관련 옵션을 많이 제공하며 애너테이션으로 설정도 매우 쉽다.
 CSRF 공격, 세션 고정 공격을 방어해주고 요청 헤더도 보안처리를 해주므로 개발자가 보안 관련 개발을 해야하는 부담을 크게 줄여준다.
+* CSRF 공격: 사용자의 권한을 가지고 특정 동작을 수행하도록 유도하는 공격
+* 세션 고정 공격: 사용자의 인증 정보를 탈취하거나 변조한느 공격
+
+### 스프링 시큐리티와 필터
+스프링 시큐리티는 필터 기반으로 동작한다.
+다향한 필터들로 나누어져 있으며 각 필터에서 인증, 인가와 관련된 작업을 처리합니다.
+
+![image](https://github.com/user-attachments/assets/a0af3b68-ff7c-4897-bcaf-a96b29f77337)
+
+SecurityContextPersistenceFilter부터 시작해서 아래로 내려가며 FilterSercurityInterceptor까지 순서대로 필터를 거친다.
+필터를 실행할 때는 회색 화살표로 연결된 클래스를 거치며 실행된다.
+특정 필터를 제거하거나 필터 뒤에 커스텀 필터를 넣는 등의 설정도 많이 제공한다.
+
+|필터명|설명|
+|:----|:---|
+|SecurityContextPersistenceFilter|SecurityContextRepository에서 SecurityContext(접근 주체와 인증에 대한 정보를 담고 잇는 객체)를 가져오거나 저장하는 역할을 한다.|
+|LogoutFilter|설정된 로그아웃 URL로 오는 요청을 확인해 해당 사용자를 로그아웃 처리한다.|
+|UsernamePasswordAuthenticationFilter|id와 패스워드가 넘어오면 인증 요청을 위임하는 인증 관리자 역할, 폼기반 로그인을 할 때 사용되는 필터, 인증이 성공하면 AuthenticationSuccessHandler를, 인증에 실패하면 AuthenticationSuccessHandler를, 인증에 실패하면 AuthenticationFailureHandler를 실행한다.|
