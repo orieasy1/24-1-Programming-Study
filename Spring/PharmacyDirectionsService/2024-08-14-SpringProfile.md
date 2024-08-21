@@ -47,3 +47,9 @@ spring:
             on-profile: prod
 
 ```
+
+이렇게 작성하고 어플리케이션을 run 시켜보면
+
+![image](https://github.com/user-attachments/assets/3a37eac4-d203-47d2-8f0f-d4fae4a5d75e)
+
+위 사진 처럼 두개의 profile이 active하다는 것을 확인할 수 있다.
