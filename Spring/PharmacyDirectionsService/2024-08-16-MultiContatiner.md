@@ -81,6 +81,42 @@ SPRING_DATASOURCE_PASSWORD=1234
 
 
 docker-compose -f docker-compose-local.yml up
-
 f라는 옵션을 사용하면 어떤 도커 컴포즈 파일을 실행시킬지 결정할 수 있다.
+
+![image](https://github.com/user-attachments/assets/c5536655-474d-4e25-a4e4-2dfd9bae469f)
+
 up이라는 명령어를 사용하면 명시했었던 데이터베이스가 쭉 올라오게 된다.
+
+docker ps라는 명령어를 사용하여 
+![image](https://github.com/user-attachments/assets/3c16442e-0340-4805-8219-32807c5df551)
+
+
+
+
+
+스프링부트를 이용해 정상적으로 커넥션 확인
+
+application.yml 파일 수정
+
+```
+spring:
+  config:
+    activate:
+      on-profile: local
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/phramacy-directions-service
+    username: ${SPRING_DATASOURCE_USERNAME}
+    password: ${SPRING_DATASOURCE_PASSWORD}
+  data:
+    redis:
+      host: localhost
+      port: 6379
+  jpa:
+    hibernate:
+      ddl-auto: create
+    show-sql: true
+```
+
+이때 로컬에서 개발할 때는 인텔리제이에서 따로 환경변수를 추가해줘야함
+edit configuration에 들어가서 modift option 대신 environment variable 클릭 후 추가
